@@ -1,0 +1,57 @@
+
+  
+.sidebarFriendImg2 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  object-fit: cover;  
+}
+
+.sidebarFriendName2 {
+  font-size: large;  
+  color: white;
+    
+}
+
+.sidebarFriendSkill 
+{
+  font-style: italic;
+  font-size: x-small;
+  color: white;
+}
+.sidebarjobtitle 
+{
+  font-style: italic;
+  font-size: x-small;
+  color: white;
+}
+.sidebarFriendName2:hover, .sidebarFriendName2:active   .sidebarFriendName2:focus{
+  /* color: #45A293;*/
+  color: #45A293;
+}
+
+
+
+
+.card {
+  
+  background-color: #212b36;
+  border-radius: 10px;
+  box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
+  color: #b3b8cd;
+  width: 200px;
+   height:250px;   
+  text-align: center;
+  padding-top: 10px;
+  
+ 
+}
+
+  .cardmain{
+   
+   margin-top: 20px;
+    margin-left: 15px;
+  }
+    
+
+  

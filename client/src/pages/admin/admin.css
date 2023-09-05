@@ -1,0 +1,97 @@
+/*.adminContainer{
+    display: flex;
+    width: 100%;
+    
+    background-color: #1f2833;
+    color: white;
+}
+.feedback{
+    flex: 5;
+    max-width: 50%;
+}
+
+.all{
+    flex:5;
+    border: 1px solid white;
+    max-width: 50%;
+    padding-bottom:50px;
+}*/
+
+
+
+.DeleteIcon{
+color:red;
+}
+
+table {
+  border: 2px solid black;
+  width: 100%;
+  
+}
+
+th {
+  border-bottom: 1px solid black;
+}
+
+td {
+  text-align: center;
+}
+
+.section1 {
+
+  background-color: white;
+  border-radius: 10px;
+
+  border: 1px solid black;
+  color: black;
+  width: 95%;
+  
+
+  padding: 10px;
+  margin: 20px;
+
+}
+
+.section2 {
+
+  background-color: #212b36;
+  border-radius: 10px;
+  border: 1px solid white;
+  color: #b3b8cd;
+  width: 50%;
+  height: 250px;
+
+  padding: 10px;
+  margin: 20px;
+
+}
+
+.section3 {
+
+
+  background-color: #212b36;
+  border-radius: 10px;
+  border: 1px solid white;
+  color: #b3b8cd;
+  width: 200px;
+  height: 250px;
+
+  padding: 10px;
+  margin: 20px;
+
+}
+
+.section {
+
+
+  background-color: #212b36;
+  border-radius: 10px;
+  border: 1px solid white;
+  color: #b3b8cd;
+  width: 80%;
+  height: 700px;
+
+  padding: 10px;
+  margin: 20px;
+
+}

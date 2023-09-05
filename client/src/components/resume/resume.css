@@ -1,0 +1,163 @@
+/*.resume {
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+    grid-template-rows: repeat(6, 10fr);
+    grid-column-gap: 15px;
+    grid-row-gap: 15px;
+    }
+    
+    .personal { grid-area: 1 / 2 / 2 / 3; }
+    .education { grid-area: 2 / 2 / 3 / 3; }
+    .work { grid-area: 3 / 2 / 4 / 3; }
+    .skills { grid-area: 4 / 2 / 5 / 3; }
+    .project { grid-area: 5 / 2 / 6 / 3; }
+    .award { grid-area: 6 / 2 / 7 / 3; }*/
+
+    .resume{
+      flex:7.3;
+      
+  }
+  
+  .resumeWrapper{
+      padding: 50px;
+      margin-left: 60px;
+     
+      
+
+  }
+  
+  .ResumeInput{
+      height: 50px;
+      border-radius: 10px;
+      border: 1px solid gray;
+      font-size: 18px;
+      padding-left: 20px;
+      margin-bottom: 10px;
+      width:90%;
+      
+  }
+  
+  .personal{
+      width: 80%;
+      position: auto;
+      background-color: #1f2833;
+      border-radius:15px;
+      border: 1px solid rgba(255, 255, 255, 0.125);
+      padding-left:25px;
+      padding-right:25px;
+      padding-top:5px;
+      margin-bottom: 20px;
+      
+      
+  }
+
+  
+  .education{
+      width: 80%;
+      position: auto;
+      background-color: #1f2833;
+      border-radius:15px;
+      border: 1px solid rgba(255, 255, 255, 0.125);
+      padding-left:25px;
+      padding-right:25px;
+      padding-top:5px;
+      padding-left:25px;
+      padding-right:25px;
+      padding-top:5px;
+      /*padding: 50px 25px 0;*/
+      margin-bottom: 20px;
+  }
+
+  .skills{
+      width: 80%;
+      position: auto;
+      background-color: #1f2833;
+      border-radius:15px;
+      border: 1px solid rgba(255, 255, 255, 0.125);
+      
+      padding-left:25px;
+      padding-right:25px;
+      padding-top:5px;
+      margin-bottom: 20px;
+  }
+
+  .work{
+      width: 80%;
+      position: auto;
+      background-color: #1f2833;
+      border-radius:15px;
+      border: 1px solid rgba(255, 255, 255, 0.125);
+      
+      padding-left:25px;
+      padding-right:25px;
+      padding-top:5px;
+      margin-bottom: 20px;
+  }
+  .project{
+      width: 80%;
+      position: auto;
+      background-color: #1f2833;
+      border-radius:15px;
+      border: 1px solid rgba(255, 255, 255, 0.125);
+      padding-left:25px;
+      padding-right:25px;
+      padding-top:5px;
+      margin-bottom: 20px;
+  }
+
+  .award{
+      width: 80%;
+      position: auto;
+      background-color: #1f2833;
+      border-radius:15px;
+      border: 1px solid rgba(255, 255, 255, 0.125);
+      padding-left:25px;
+      padding-right:25px;
+      padding-top:5px;
+      margin-bottom: 20px;
+  }
+
+  .buttons{
+      width: 80%;
+      position: auto;
+      
+      padding-left:25px;
+      padding-right:25px;
+      padding-top:5px;
+      margin-bottom: 20px;
+  }
+  
+
+  .buttonInput{
+      height: 50px;
+      border-radius: 10px;
+      border: 1px solid gray;
+      font-size: 18px;
+      
+      margin-left: 50px;
+      width:20%;
+  }
+
+
+  .button2{
+      width: 80%;
+      position: auto;
+      
+      padding-left:25px;
+      padding-right:25px;
+      padding-top:5px;
+      margin-bottom: 20px;
+  }
+  
+
+  .buttonInput{
+      height: 50px;
+      border-radius: 10px;
+      border: 1px solid gray;
+      font-size: 18px;
+      
+      margin-left: 50px;
+      width:20%;
+  }
+
+ 
